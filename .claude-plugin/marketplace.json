@@ -1,0 +1,34 @@
+{
+  "name": "reddit-skills",
+  "owner": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "metadata": {
+    "description": "7 Claude skills for Reddit: reddit post writer, subreddit finder, reddit comment drafter, reddit rules checker, reddit ama planner, reddit audience insights, plus a Postiz publisher that schedules approved posts."
+  },
+  "plugins": [
+    {
+      "name": "reddit-skills",
+      "source": "./",
+      "description": "7 Claude skills for Reddit: reddit post writer, subreddit finder, reddit comment drafter, reddit rules checker, reddit ama planner, reddit audience insights, plus a Postiz publisher that schedules approved posts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr.V",
+        "url": "https://github.com/mrvsubstack"
+      },
+      "homepage": "https://github.com/mrvsubstack/reddit-skills",
+      "license": "MIT",
+      "keywords": [
+        "reddit",
+        "social-media",
+        "marketing",
+        "content",
+        "claude-skills",
+        "postiz",
+        "scheduling"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

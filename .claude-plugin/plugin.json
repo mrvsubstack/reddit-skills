@@ -1,0 +1,20 @@
+{
+  "name": "reddit-skills",
+  "description": "7 Claude skills for Reddit: reddit post writer, subreddit finder, reddit comment drafter, reddit rules checker, reddit ama planner, reddit audience insights, plus a Postiz publisher that schedules approved posts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrvsubstack/reddit-skills",
+  "keywords": [
+    "reddit",
+    "social-media",
+    "marketing",
+    "content",
+    "claude-skills",
+    "postiz",
+    "scheduling"
+  ]
+}
